@@ -1,0 +1,11 @@
+.banner-container {
+    background-image: url("https://image.freepik.com/free-vector/silhouette-skyline-illustration_53876-78786.jpg");
+    background-repeat: no-repeat;
+    width: 80%;
+    min-height: 600px;
+    margin: 0 auto;
+    background-position: center;
+    background-size: cover;
+    margin-top: 40px;
+    border-radius: 15px;
+}
